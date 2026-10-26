@@ -1,0 +1,8 @@
+Guitar Recorder
+Copyright (c) 2026 ApexLegendIsFun
+
+The application is available to download and use free of charge.
+This distribution contains application builds and documentation, not application source code.
+Third-party software retains its own licenses. See the licenses directory.
+
+https://github.com/ApexLegendIsFun/guitar-recorder
